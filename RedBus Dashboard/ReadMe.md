@@ -1,5 +1,8 @@
 ## 🚍 **Power BI Project: RedBus Booking Insights Dashboard (Festival-Aware + Tier-Wise)**
 
+
+![RedBus Dashboard](https://github.com/user-attachments/assets/292a1b47-27bb-4fa9-9fa3-8f180e77f244)
+
 🔴 **About RedBus:**
 RedBus is India’s largest online bus ticketing platform, connecting millions of users across cities, regions, and states. With massive intercity booking data and seasonal peaks, RedBus presents an ideal opportunity to build a real-world, analytics-driven dashboard.
 
