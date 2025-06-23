@@ -81,7 +81,7 @@ These columns were pivotal in allowing users to:
 ### 🌐 See it in Action:
 
 📎 **Power BI Dashboard (Public Link)**
-🔗 [View Power BI Dashboard]([https://app.powerbi.com/your-dashboard-link](https://app.powerbi.com/groups/me/reports/5239e14c-2292-45c0-a02e-79be2d9fc8d3/8fd1773bc1806cb6a619?experience=power-bi))
+🔗 https://app.powerbi.com/your-dashboard-link](https://app.powerbi.com/groups/me/reports/5239e14c-2292-45c0-a02e-79be2d9fc8d3/8fd1773bc1806cb6a619?experience=power-bi
 
 
 ### 💼 Why This Project Matters:
