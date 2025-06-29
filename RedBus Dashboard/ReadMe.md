@@ -122,7 +122,7 @@ This methodology can empower companies like RedBus, MakeMyTrip, or even IRCTC to
 
 ---
 
-## 💬 Final Thoughts (LinkedIn CTA Style)
+## 💬 Final Thoughts
 
 If you’re a hiring manager looking for a **BI-ready data analyst**, let’s connect! This project showcases my ability to:
 
