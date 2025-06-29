@@ -1,5 +1,6 @@
 ## **RedBus Booking Insights Dashboard -- A Power BI-Powered Travel Analytics Solution**
 
+![RedBus Dashboard](https://github.com/user-attachments/assets/292a1b47-27bb-4fa9-9fa3-8f180e77f244)
 ---
 
 ## 🧩 Problem Statement
