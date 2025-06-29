@@ -1,4 +1,4 @@
-## **RedBus Booking Insights Dashboard — A Power BI-Powered Travel Analytics Solution**
+## **RedBus Booking Insights Dashboard -- A Power BI-Powered Travel Analytics Solution**
 
 ---
 
